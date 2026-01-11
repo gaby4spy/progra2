@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Final_POO_Gabriel_Rojas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Final_POO_Gabriel_Rojas_jar</output-path>
+    <root id="archive" name="Final_POO_Gabriel_Rojas.jar">
+      <element id="module-output" name="Final_POO_Gabriel_Rojas" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
